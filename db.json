@@ -1,26 +1,5 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Angular"
-    },
-    {
-      "id": 2,
-      "title": "React.js"
-    },
-    {
-      "id": 3,
-      "title": "Vue.js"
-    },
-    {
-      "id": 4,
-      "title": "Svelte"
-    },
-    {
-      "id": 5,
-      "title": "Nest.js"
-    }
-  ],
+  "users": [],
   "profile": {
     "name": "typicode"
   }
